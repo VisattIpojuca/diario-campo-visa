@@ -1,1 +1,3 @@
+ID,inspetor_id,estabelecimento,cnpj,atividade,risco,data_inspecao,obs_inspetor,prazo_retorno_inspetor,prazo_retorno_coord,status,comentarios,data_conclusao
 
+"1,joao.insp,Padaria Saborosa,12.345.678/0001-90,Alimentos,Alto,2025-10-01,""Falta de higiene na área de produção."",2025-10-16,,Em Andamento,""Aguardando retorno do inspetor"","
